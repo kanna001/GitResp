@@ -7,4 +7,7 @@ package com.yibai;
  * @version: V1.0
  */
 public class Tets0001 {
+    public static void main(String[] args) {
+
+    }
 }
